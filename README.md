@@ -53,10 +53,6 @@ Currently serving as an Enterprise Architect at Myriad Genetics, where I lead cr
 - 🧬 Genetics & Healthcare Technology
 - 🤖 Artificial Intelligence & Machine Learning
 
-## 📈 GitHub Stats
-
-![Randall's GitHub stats](https://github-readme-stats.vercel.app/api?username=runningrandall&show_icons=true&theme=blue-green)
-
 ## 📫 Let's Connect!
 
 - 📧 Email: randall.adams@outlook.com
